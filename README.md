@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rudraksh</h1>
-<h3 align="center">A passionate PYTHON, JAVA, TYPESCRIPT developer from India !!</h3>
+<h3 align="center">Software Engineer • JAVA Programmer • Working on Machine Learning • Graphic Designer • CSE '27 • Student at Birla Institute of Technology, Mesra</h3>
 
 
 # 💻 Tech Stack:
