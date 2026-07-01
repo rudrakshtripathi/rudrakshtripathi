@@ -194,14 +194,6 @@ Browser-native 3D interior design platform with:
 
 ---
 
-# 🏆 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudrakshtripathi&show_icons=true&theme=radical" />
-</p>
-
-
----
 
 # > github.analytics
 
