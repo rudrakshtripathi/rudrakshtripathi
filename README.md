@@ -194,14 +194,11 @@ Browser-native 3D interior design platform with:
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rudrakshtripathi&theme=radical&no-frame=true&no-bg=false&margin-w=10&margin-h=10&column=8" />
-
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rudrakshtripathi&show_icons=true&theme=radical" />
+</p>
 
 
 ---
