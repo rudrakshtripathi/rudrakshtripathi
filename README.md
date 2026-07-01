@@ -192,8 +192,6 @@ Browser-native 3D interior design platform with:
 
 ---
 
----
-
 
 # > github.analytics
 
