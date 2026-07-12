@@ -2,7 +2,7 @@
 
 # Rudraksh Tripathi
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+%26+Automation+Engineer;Building+Scalable+Web+Applications;300%2B+DSA+Problems+Solved;Turning+Ideas+Into+Production+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+%26+Automation+Engineer;Building+Scalable+Web+Applications;700%2B+DSA+Problems+Solved;Turning+Ideas+Into+Production+Systems" />
 
 <p align="center">
   
