@@ -25,7 +25,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Production-Grade+Applications;AI+%26+Automation+Engineer;Scalable+Systems+%7C+Modern+Web+Apps;Next.js+%7C+TypeScript+%7C+Python+%7C+Cloud;Turning+Ideas+Into+Real+Products" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Production-Grade+Applications;AI+%26+Automation+Engineer;Scalable+Systems+%7C+Modern+Web+Apps;Java+%7C+Next.js+%7C+TypeScript+%7C+Python+%7C+Cloud;Turning+Ideas+Into+Real+Products" />
 
 </div>
 
